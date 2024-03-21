@@ -115,4 +115,5 @@ Verify the table creation by running a SELECT statement for each table.
 Import each CSV file into its corresponding SQL table.
 
 Verify that each table has the correct data by running a SELECT statement for each.
+
 I chose to use Option 1 for this project
