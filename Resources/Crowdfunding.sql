@@ -1,1 +1,1 @@
-SELECT * FROM "Campaign";
+ALTER TABLE "Campaign" ALTER COLUMN "subcategory_name" DROP NOT NULL;
